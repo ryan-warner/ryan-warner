@@ -1,4 +1,4 @@
-### Hi there 👋  <br/> My name is Ryan Warner! 
+### Hi there 👋  <br/><br/> My name is Ryan Warner! 
 
 - 🛩  I'm currently studying Aerospace Engineering at Georgia Tech in Atlanta, with a minor in Computer Science
 - 📍 My account is basically a collection of personal and school projects, in various stages of development. I wouldn't call myself a professional by any means, but hopefully I've made some things that people might be able to use. Feel free to dig around!
